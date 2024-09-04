@@ -11,7 +11,7 @@
 //
 // Fichero entrada csv separado por tabulaciones.
 // Columnas: referencia,direccion,cp,latitud,longitud,df
-// Actualizado: 17/09/2019
+// Actualizado: 04/09/2024
 
 var buffer = [];
 var tdatos = [];
